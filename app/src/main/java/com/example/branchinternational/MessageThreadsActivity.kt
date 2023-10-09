@@ -1,19 +1,16 @@
 package com.example.branchinternational
 
 import android.annotation.SuppressLint
-import android.app.Notification.Action
 import android.content.Context
 import android.content.Intent
 import android.content.SharedPreferences
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
-import android.graphics.drawable.Drawable
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
-import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.ActionBar
 import androidx.appcompat.app.AppCompatActivity
@@ -44,7 +41,7 @@ class MessageThreadsActivity : AppCompatActivity() {
 
         val actionBar: ActionBar?=supportActionBar
         actionBar?.setBackgroundDrawable(ColorDrawable(Color.parseColor("#b4e6fe")))
-        actionBar?.setDisplayShowCustomEnabled(false)
+        actionBar?.setDisplayShowTitleEnabled(false);
 
         actionBar?.setDisplayShowCustomEnabled(true)
         val layoutInflater:LayoutInflater = this.getSystemService(Context.LAYOUT_INFLATER_SERVICE) as LayoutInflater
