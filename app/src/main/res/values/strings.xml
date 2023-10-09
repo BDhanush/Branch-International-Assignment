@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Branch International</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="login_text">LOGIN</string>
+    <string name="thread">Thread:</string>
+    <string name="reply">Reply</string>
+    <string name="loggingIn">Logging in</string>
+    <string name="messageId">Message ID: %d</string>
+    <string name="userId">User ID: %d</string>
+    <string name="agentId">Agent ID: %d</string>
+    <string name="threadTitle">Thread %d</string>
+    <string name="refreshGuide">refresh for updates</string>
+    <string name="logOut">Log out</string>
+    <string name="logOutMessage">Logged Out</string>
+
+</resources>
