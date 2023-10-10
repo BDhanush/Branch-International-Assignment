@@ -1,7 +1,7 @@
 # Dhanush Bommavaram
 ### dhanushbommavaram@gmail.com
 ___
-This app was built as part of [this assignment](https://1drv.ms/b/s!AmvH0VCG4AMogbEGRJgITqV-bjJ-IQ?e=QPT3hM).\
+This app was built as part of [this assignment](https://1drv.ms/b/s!AmvH0VCG4AMogbEGRJgITqV-bjJ-IQ?e=QPT3hM).
 
 Features: \
 Tap on top of action bar to scroll back to the top of the threads/messages.\
